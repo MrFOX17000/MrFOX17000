@@ -78,7 +78,9 @@
 
 <p align="center">
   👀 Profile views
-  ![Profile views](https://komarev.com/ghpvc/?username=MrFOX17000&style=flat-square&color=blue)
+
+![Profile views](https://komarev.com/ghpvc/?username=MrFOX17000&style=for-the-badge&color=0A66C2)
+
 </p>
 
 ---
