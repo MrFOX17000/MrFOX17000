@@ -21,7 +21,7 @@
 
 ## 🌐 Connect with me
 
-<p align="center">
+<p>
   <a href="https://linkedin.com/in/mathias-renard-70a919239">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
