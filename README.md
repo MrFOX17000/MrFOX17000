@@ -77,8 +77,8 @@
 ---
 
 <p align="center">
-  👀 Profile views<br>
-  <img src="https://visitcount.itsvg.in/api?id=MrFOX17000&color=6" />
+  👀 Profile views
+  ![Profile views](https://komarev.com/ghpvc/?username=MrFOX17000&style=flat-square&color=blue)
 </p>
 
 ---
