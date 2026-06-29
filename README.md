@@ -1,89 +1,58 @@
-<h1 align="center">👋 Hi, I'm Mathias</h1>
-<h3 align="center">Web Developer • PHP & Symfony Enthusiast</h3>
+# Hi, I'm Mathias Renard
 
-<p align="center">
-🚀 Building clean, useful & well-structured web applications<br>
-📚 Focused on backend development and continuous learning
-</p>
+PHP web developer based near Aix-en-Provence, France.
 
----
+I currently work as a web developer apprentice at a web agency, where I contribute to the development, maintenance and evolution of client websites and applications.
 
-## 🧠 About Me
+My professional experience mainly involves:
 
-- 💻 Web developer in training, specialized in **PHP & Symfony**
-- 🛠️ Learning by doing: real projects, real problems, real solutions
-- 🎯 Goal: write **clean, maintainable and scalable code**
-- ✨ Curious, motivated, and always improving
+* PHP development on custom MVC applications
+* HTML, CSS and JavaScript integration
+* MySQL databases
+* WordPress and WooCommerce maintenance
+* Technical SEO and structured data
+* Web hosting, deployments and production maintenance
 
-> *I like code that future-me won’t insult.*
+## Current goal
 
----
+I am currently strengthening my foundations in modern PHP, object-oriented programming, testing, Git and Symfony.
 
-## 🌐 Connect with me
+My objective is not to publish large projects that I cannot fully explain. I prefer building small, progressive projects where every important technical decision is understood and documented.
 
-<p>
-  <a href="https://linkedin.com/in/mathias-renard-70a919239">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:renardmathias2@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
+## Current learning repository
 
----
+### php-learning-lab
 
-## 💻 Tech Stack
+A progressive collection of exercises and small applications created to improve my understanding of:
 
-### 🧩 Languages & Core
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php" />
-</p>
+* modern PHP
+* object-oriented programming
+* Composer and PSR-4 autoloading
+* exceptions and validation
+* PHPUnit
+* Git and GitHub workflows
+* clean and maintainable code
 
-### ⚙️ Frameworks & Libraries
-<p>
-  <img src="https://skillicons.dev/icons?i=symfony,threejs" />
-</p>
+Every project in this repository is written progressively, with a focus on understanding rather than code generation.
 
-### 🗄️ Databases & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github" />
-</p>
+## Technologies
 
----
+**Professional experience**
 
-## 📊 GitHub Activity
+PHP · MySQL · JavaScript · HTML · CSS · WordPress · WooCommerce · SEO · JSON-LD
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrFOX17000&show_icons=true&theme=tokyonight" />
-</p>
+**Currently improving**
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=MrFOX17000&theme=tokyonight" />
-</p>
+Modern PHP · Symfony · PostgreSQL · PHPUnit · Docker · Git workflows
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrFOX17000&layout=compact&theme=tokyonight" />
-</p>
+## Background
 
----
+* Web Developer Apprentice — e-partenaire
+* BTS SIO, Software Solutions and Business Applications
+* Preparing the French professional certification “Concepteur Développeur d’Applications” — RNCP level 6
+* Available for a PHP web developer position from late November 2026
 
-## ✍️ Dev Wisdom of the Day
+## Contact
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
-
-## 👀 Profile views
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=MrFOX17000&style=for-the-badge&color=0A66C2" />
-</p>
-
----
-
-<p align="center">
-  <i>“Talk is cheap. Show me the code.”</i>
-</p>
+* LinkedIn: [Mathias Renard](https://www.linkedin.com/in/mathias-renard-70a919239/)
+* Email: [renardmathias2@gmail.com](mailto:renardmathias2@gmail.com)
